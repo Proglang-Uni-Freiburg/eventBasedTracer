@@ -1,0 +1,4 @@
+[submodule "jalangi2"]
+	path = jalangi2
+	url = git@github.com:baabaablackgoat/jalangi2-forked.git
+	branch = thesis-changes

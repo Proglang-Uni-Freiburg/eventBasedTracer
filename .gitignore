@@ -1,0 +1,12 @@
+/cache/
+/mitmproxy9.0.1/
+/venv/
+/jalangi2/trace.log
+/jalangi2/.git
+/basicTests/jalangi_out/
+/basicTests/babelified/
+*_jalangi_*
+.idea/
+.github/
+node_modules/
+
